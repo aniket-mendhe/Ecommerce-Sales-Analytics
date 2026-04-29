@@ -1,10 +1,10 @@
 ## 📊 Dashboard Preview
 
 ### Page 1
-![Dashboard](dashboard_page1.png)
+![Dashboard](dashboard_page1.png.png)
 
 ### Page 2
-![Customer Insights](dashboard_page2.png)
+![Customer Insights](dashboard_page2.png.png)
 
 ## 📌 Project Overview
 This project analyzes e-commerce data to uncover insights related to sales performance, customer behavior, and product trends.
